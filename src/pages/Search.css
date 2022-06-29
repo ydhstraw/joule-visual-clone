@@ -1,0 +1,128 @@
+.Search{
+    display: flex;
+    align-items: center;
+    /* margin: 0 5% 0 5%; */
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+}
+
+.card-text {
+    font-weight: bold;
+    width: 30vw;
+    text-align: left;
+    margin: 5% 10% 0 0;
+    float: right;
+    font-size: 3.5vw;
+}
+
+.card-text-1 {
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.card-text-2 {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.card-image-2{
+    width: 40%;
+    height: 100%;
+    margin:0;
+    padding: 0;
+    float:left;
+    content: url(../../public/assets/images/pizza.jpg);
+}
+
+ion-card-header.img3{
+    width: 25vw;
+    height: 25vw;
+    background-color: #fe674c;
+    position: relative;
+    border-radius: 50%;
+    margin: 5% 0 5% 10%;
+    padding:20% 15% 15% 15%;
+    text-align: center;
+    font-size: 4.2vw;
+}
+
+.mini-text{
+    padding-top: 4%;
+    padding-bottom: 2%;
+    padding-left: 2.5%;
+    display: flex;
+    font-size: 13px; 
+    color: grey;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.time-temp{
+    background-color: rgb(243, 220, 177);
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+
+}
+
+.range{
+    color: rgb(100, 100, 100);
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 22px;
+}
+
+.temperatuer{
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0;
+    font-size: 18px;
+}
+
+.ccr-pic{
+    padding: 0%;
+    max-width: 100px;
+    align-items: center;
+}
+
+.boxyroxy{
+    padding: 20px;
+    margin-left: 10px;
+    
+}
+
+.chef-img{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    /* margin-top: 7px;
+    margin-bottom: 5px;
+    margin-left: 40px; */
+    object-fit: cover;
+    align-items: center;
+}
+
+.ccr-big-card{
+    margin-top: 5%;
+    font-size: 15px;
+}
+
+.mini-text2{
+    padding-bottom: 2%;
+    padding-left: 2.5%;
+    display: flex;
+    font-size: 10px; 
+    color: grey;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.jtt {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
